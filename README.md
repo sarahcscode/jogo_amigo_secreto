@@ -40,3 +40,5 @@ Este projeto é uma aplicação simples em JavaScript para criar uma lista de am
 5. **`limparCampo()`**
    - Limpa o valor do campo de entrada após a adição de um amigo.
 
+**Deployment**
+jogo-amigo-secreto-5k3a-l74cpyyzr-sarahs-projects-675fd93f.vercel.app
